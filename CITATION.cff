@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ioshchikhes"
+  given-names: "Borys"
+  orcid: "0000-0003-2798-4276"
+title: "ES4EE_ETAFactory"
+version: 1.0.0
+doi: tba
+date-released: 2025-02-02
+url: "https://github.com/Borika95/ES4EE_ETAFactory"
